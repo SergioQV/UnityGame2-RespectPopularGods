@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb93696f3ea06944b78a02e2b6a9f41, type: 3}
+  m_Name: Escudo
+  m_EditorClassIdentifier: 
+  nombre: Escudo
+  icon: {fileID: 21300000, guid: ef8d967d644396145bb35385a69ff98b, type: 3}
+  defaultItem: 0
+  slotEquipo: 1
+  modificadorArmadura: 0
+  modificadorDano: 0
+  objetoFisico: {fileID: 1829172915145814, guid: 6e1dfa0e719c863459eee732d5e4cbab,
+    type: 2}
+  posicionAlCoger: {x: -0.012, y: 0.07, z: 0.007}
+  rotacionAlCoger: {x: -76.538, y: -51.765, z: -144.824}

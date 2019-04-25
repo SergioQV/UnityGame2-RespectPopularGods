@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb93696f3ea06944b78a02e2b6a9f41, type: 3}
+  m_Name: Flecha
+  m_EditorClassIdentifier: 
+  nombre: Flecha
+  icon: {fileID: 0}
+  defaultItem: 0
+  slotEquipo: 0
+  modificadorArmadura: 0
+  modificadorDano: 0
+  objetoFisico: {fileID: 1482162168890388, guid: 9dacd6a8780ecee4787bc96a63862176,
+    type: 2}
+  posicionAlCoger: {x: 0.378, y: -0.034, z: 0.083}
+  rotacionAlCoger: {x: -36.33, y: -6.138, z: 81.246}
